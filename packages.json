@@ -6,5 +6,9 @@
     {
         "package": "solong",
         "url": "https://github.com/SCAR/solong"
+    },
+    {
+        "package": "quantarcticR",
+        "url": "https://github.com/SCAR/quantarcticR"
     }
 ]
