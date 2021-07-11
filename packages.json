@@ -1,5 +1,9 @@
 [
     {
+        "package": "antanym",
+        "url": "https://github.com/ropensci/antanym"
+    },
+    {
         "package": "sohungry",
         "url": "https://github.com/SCAR/sohungry"
     },
