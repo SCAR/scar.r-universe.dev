@@ -16,6 +16,10 @@
         "url": "https://github.com/SCAR/solong"
     },
     {
+        "package": "SOmap",
+        "url": "https://github.com/AustralianAntarcticDivision/SOmap"
+    },
+    {
         "package": "quantarcticR",
         "url": "https://github.com/SCAR/quantarcticR"
     }
