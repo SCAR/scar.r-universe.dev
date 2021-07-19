@@ -8,6 +8,10 @@
         "url": "https://github.com/AustralianAntarcticDivision/availability"
     },
     {
+        "package": "blueant",
+        "url": "https://github.com/AustralianAntarcticDivision/blueant"
+    },
+    {
         "package": "raadtools",
         "url": "https://github.com/AustralianAntarcticDivision/raadtools"
     },
