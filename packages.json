@@ -4,6 +4,10 @@
         "url": "https://github.com/ropensci/antanym"
     },
     {
+        "package": "availability",
+        "url": "https://github.com/AustralianAntarcticDivision/availability"
+    },
+    {
         "package": "raadtools",
         "url": "https://github.com/AustralianAntarcticDivision/raadtools"
     },
