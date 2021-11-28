@@ -12,6 +12,10 @@
         "url": "https://github.com/AustralianAntarcticDivision/blueant"
     },
     {
+        "package": "raadfiles",
+        "url": "https://github.com/AustralianAntarcticDivision/raadfiles"
+    },
+    {
         "package": "raadtools",
         "url": "https://github.com/AustralianAntarcticDivision/raadtools"
     },
@@ -30,5 +34,9 @@
     {
         "package": "quantarcticR",
         "url": "https://github.com/SCAR/quantarcticR"
+    },
+    {
+        "package": "QPress",
+        "url": "https://github.com/swotherspoon/QPress"
     }
 ]
