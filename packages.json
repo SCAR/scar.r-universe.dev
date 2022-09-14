@@ -42,5 +42,9 @@
     {
         "package": "QPress",
         "url": "https://github.com/swotherspoon/QPress"
+    },
+    {
+        "package": "RDCOMClient",
+        "url": "https://github.com/omegahat/RDCOMClient"
     }
 ]
