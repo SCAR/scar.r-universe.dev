@@ -42,5 +42,9 @@
     {
         "package": "QPress",
         "url": "https://github.com/swotherspoon/QPress"
+    },
+    {
+        "package": "fastrls",
+        "url": "https://github.com/AustralianAntarcticDivision/fastrls"
     }
 ]
