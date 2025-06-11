@@ -42,5 +42,9 @@
     {
         "package": "fastrls",
         "url": "https://github.com/AustralianAntarcticDivision/fastrls"
+    },
+    {
+        "package": "polr",
+        "url": "https://github.com/SCAR/polr"
     }
 ]
