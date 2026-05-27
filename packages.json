@@ -12,6 +12,10 @@
         "url": "https://github.com/AustralianAntarcticDivision/blueant"
     },
     {
+        "package": "bowerbird",
+        "url": "https://github.com/ropensci/bowerbird"
+    },
+    {
         "package": "raadfiles",
         "url": "https://github.com/AustralianAntarcticDivision/raadfiles"
     },
